@@ -1,4 +1,4 @@
-date,transfer,addBaker,transferToEncrypted,encryptedAmountTransfer,transferToPublic,transferWithSchedule,removeBaker,updateCredentials,deployModule,initContract,update,registerData,transferWithMemo,updateBakerStake,updateBakerKeys,updateBakerRestakeEarnings,transferWithScheduleAndMemo,encryptedAmountTransferWithMemo,Unnamed: 19,Unnamed: 20,Unnamed: 21,,configureBaker,configureDelegation
+date,transfer,addBaker,transferToEncrypted,encryptedAmountTransfer,transferToPublic,transferWithSchedule,removeBaker,updateCredentials,deployModule,initContract,update,registerData,transferWithMemo,updateBakerStake,updateBakerKeys,updateBakerRestakeEarnings,transferWithScheduleAndMemo,encryptedAmountTransferWithMemo,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,configureBaker,configureDelegation
 2021-06-09,15.0,2.0,1.0,2.0,3.0,1.0,2.0,,,,,,,,,,,,,,,,,
 2021-06-10,,,,,,,,,,,,,,,,,,,,,,,,
 2021-06-11,,,,,,,,,,,,,,,,,,,,,,,,
@@ -379,3 +379,4 @@ date,transfer,addBaker,transferToEncrypted,encryptedAmountTransfer,transferToPub
 2022-06-21,85.0,,3.0,,1.0,,,4.0,,,6.0,30929.0,,3.0,,,,,,,,,,
 2022-06-22,218.0,,1.0,,1.0,,3.0,,,,77.0,30942.0,1.0,7.0,,3.0,,,,,,,,
 2022-06-23,157.0,,,,,,,,,,15.0,30905.0,2.0,1.0,,,,,,,,1.0,38.0,80.0
+2022-06-24,93.0,,1.0,,1.0,,,,,,4.0,30930.0,2.0,,,,,,,,,,12.0,15.0
