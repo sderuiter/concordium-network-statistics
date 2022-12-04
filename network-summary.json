@@ -1,5 +1,7 @@
 {
-    "account_count": 86154,
+    "account_count": 86161,
     "baker_count": 192,
-    "free_float": 5892258184
+    "free_float": 5895266091,
+    "total_staked": 8642583725,
+    "total_balance": 11520360362
 }
