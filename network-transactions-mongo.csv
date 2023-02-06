@@ -1,4 +1,4 @@
-date,initial,normal,transfer,transferToPublic,removeBaker,addBaker,encryptedAmountTransfer,transferWithSchedule,transferToEncrypted,credentialDeploymentTransaction,accountTransaction,updateCredentials,deployModule,initContract,update,updateMicroGTUPerEuro,updatePoolParameters,updateTransaction,registerData,updateProtocol,transferWithMemo,updateBakerStake,updateAddIdentityProvider,updateBakerKeys,updateBakerRestakeEarnings,transferWithScheduleAndMemo,updateLevel2Keys,encryptedAmountTransferWithMemo,Unnamed: 29,updateLevel1Keys,configureDelegation,configureBaker,Unnamed: 33,Unnamed: 34,
+date,initial,normal,transfer,transferToPublic,removeBaker,addBaker,encryptedAmountTransfer,transferWithSchedule,transferToEncrypted,credentialDeploymentTransaction,accountTransaction,updateCredentials,deployModule,initContract,update,updateMicroGTUPerEuro,updatePoolParameters,updateTransaction,registerData,updateProtocol,transferWithMemo,updateBakerStake,updateAddIdentityProvider,updateBakerKeys,updateBakerRestakeEarnings,transferWithScheduleAndMemo,updateLevel2Keys,encryptedAmountTransferWithMemo,Unnamed: 29,updateLevel1Keys,configureDelegation,configureBaker,Unnamed: 33,Unnamed: 34,Unnamed: 35
 2021-06-09,92.0,16.0,15.0,3.0,2.0,2.0,2.0,1.0,1.0,108.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,
 2021-06-10,171.0,27.0,,,,,,,,198.0,,,,,,,,,,,,,,,,,,,,,,,,,
 2021-06-11,85.0,13.0,,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -605,3 +605,4 @@ date,initial,normal,transfer,transferToPublic,removeBaker,addBaker,encryptedAmou
 2023-02-02,5.0,10.0,112.0,,,,,,,15.0,31008.0,1.0,,,4.0,47.0,,47.0,30857.0,,3.0,,,,,,,,,,26.0,5.0,,,
 2023-02-03,5.0,4.0,74.0,,,,,,,9.0,30955.0,1.0,,,,44.0,,44.0,30853.0,,5.0,,,,,,,,,,19.0,3.0,,,
 2023-02-04,3.0,4.0,52.0,,,,,,,7.0,30925.0,,,,2.0,47.0,,47.0,30852.0,,,,,,,,,,,,18.0,,,,1.0
+2023-02-05,1.0,7.0,55.0,,,,,,1.0,8.0,30932.0,,,,6.0,48.0,,48.0,30851.0,,,,,,,,,,,,17.0,2.0,,,
